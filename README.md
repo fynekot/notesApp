@@ -1,4 +1,4 @@
-# hmmemo
+# noteApplication
 
 ## Project setup
 ```
